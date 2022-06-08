@@ -5,7 +5,7 @@ public class Soneto {
     
     public static void main(String[] args) {
        Contexto soneto = new Contexto();
-       /*soneto.muestraEstado();
+       soneto.muestraEstado();
        soneto.a();
        soneto.muestraEstado();
        soneto.b();
@@ -32,9 +32,9 @@ public class Soneto {
        soneto.muestraEstado();
        soneto.c();
        soneto.muestraEstado();
-       soneto.d();*/
+       soneto.d();
        
-        soneto.muestraEstado();
+       /* soneto.muestraEstado();
        soneto.a();
        soneto.muestraEstado();
        soneto.b();
@@ -62,7 +62,7 @@ public class Soneto {
        soneto.d();
        soneto.muestraEstado();
        soneto.e();
-       soneto.muestraEstado();
+       soneto.muestraEstado();*/
     }
     
 }
